@@ -1,0 +1,3 @@
+[user]
+	email = vyashm007@gmail.com
+	name = hemvyas007
